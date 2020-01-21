@@ -1,1 +1,1 @@
-sudo apt install wine
+sudo apt update&&apt install wine
