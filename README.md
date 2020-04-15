@@ -1,5 +1,4 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Linux-testing | Kama Kepar</title>
 # linux-testing
 This repo is for testing flashes, memory...
 
