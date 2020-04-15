@@ -1,4 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 # linux-testing
 This repo is for testing flashes, memory...
 
@@ -8,3 +7,4 @@ Then you need to run a command 'gen' and then enter how much MB you want to gene
 
 You can download my repo 
 ## [Download files from repo](https://github.com/Kamakepar2029/linux-testing/archive/master.zip)
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
